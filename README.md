@@ -1,2 +1,0 @@
-# Priximaa
-landing page
